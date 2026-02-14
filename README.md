@@ -16,7 +16,7 @@ The pipeline includes:
 
 ## 🌐 Live Demo
 👉 **Live Application:**  
-https://creditwise-loan-approv.onrender.com/
+[https://creditwise-loan-approv.onrender.com/](https://creditwiseloanapprover-qu2xjrfztpshzqws3svxpp.streamlit.app/)
 
 ---
 
